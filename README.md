@@ -1,6 +1,6 @@
 # wireframe
 
-**WIP** - minimal wireframing css-framework. Example index.html is given.
+**WIP** - minimal wireframing css-framework. An Example index.html is given.
 
 How to develop:
 
